@@ -1,3 +1,3 @@
 # pessl-assets
 
-img![](https://imgur.com/ddAEOJW)
+img![](https://i.imgur.com/ddAEOJW.jpg)
